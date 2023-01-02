@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<network-security-config xmlns:tools="http://schemas.android.com/tools">
+    <domain-config cleartextTrafficPermitted="true">
+        <domain includeSubdomains="true">49.50.165.23</domain>
+        <domain includeSubdomains="true">118.67.128.124</domain>
+        <domain includeSubdomains="true">106.10.53.93</domain>
+        <domain includeSubdomains="true">www.aedo.co.kr</domain>
+        <domain includeSubdomains="true">aedo.co.kr</domain>
+    </domain-config>
+
+    <base-config
+        cleartextTrafficPermitted="true"
+        tools:ignore="InsecureBaseConfiguration" />
+</network-security-config>

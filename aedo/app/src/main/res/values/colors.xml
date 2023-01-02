@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="text_black">#585858</color>
+
+    <color name="transparent">#00000000</color>
+
+    <color name="colorupdate">#643D19</color>
+
+    <color name="gray1">#AAAAAA</color>
+    <color name="gray2">#888888</color>
+    <color name="gray4">#f6f6f6</color>
+    <color name="gray6">#777777</color>
+    <color name="gray7">#B3B3B3</color>
+    <color name="gray8">#999999</color>
+    <color name="borderGray">#f8f7fc</color>
+    <color name="sub_grey_6">#939393</color>
+    <color name="sub_grey_2">#c2c2c2</color>
+
+    <color name="colorAccent">#F2A301</color>
+    <color name="colorAccentDark">#E08700</color>
+
+
+    <color name="semi_black">#111111</color>
+
+    <color name="colorPrimary">#424242</color>
+    <color name="colorPrimaryDark">#424242</color>
+    <color name="buttonfirst">#955B31</color>
+    <color name="buttonsecond">#DAB28D</color>
+
+    <color name="colorToastBack">#734924</color>
+
+    <color name="colorStationCharge">#F3B368</color>
+    <color name="colorOverlayAccent">#DE8500</color>
+
+    <color name="progress">#FFB884</color>
+
+    <color name="item_activity_shop_originalPrice">#797979</color>
+    <color name="item_activity_shop_salesPrice">#000000</color>
+
+
+</resources>
